@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/TLM-Producao/static/css/main.46b32182.css",
+    "main.css": "/TLM-Producao/static/css/main.fd79603f.css",
     "main.js": "/TLM-Producao/static/js/main.221d54a8.js",
     "static/js/453.ed3810f9.chunk.js": "/TLM-Producao/static/js/453.ed3810f9.chunk.js",
     "index.html": "/TLM-Producao/index.html",
-    "main.46b32182.css.map": "/TLM-Producao/static/css/main.46b32182.css.map",
+    "main.fd79603f.css.map": "/TLM-Producao/static/css/main.fd79603f.css.map",
     "main.221d54a8.js.map": "/TLM-Producao/static/js/main.221d54a8.js.map",
     "453.ed3810f9.chunk.js.map": "/TLM-Producao/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.46b32182.css",
+    "static/css/main.fd79603f.css",
     "static/js/main.221d54a8.js"
   ]
 }
