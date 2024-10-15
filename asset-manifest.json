@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/TLM-Producao/static/css/main.05bc4277.css",
-    "main.js": "/TLM-Producao/static/js/main.538eaf36.js",
+    "main.css": "/TLM-Producao/static/css/main.303bdb65.css",
+    "main.js": "/TLM-Producao/static/js/main.a68ee568.js",
     "static/js/453.ed3810f9.chunk.js": "/TLM-Producao/static/js/453.ed3810f9.chunk.js",
-    "static/media/17973908.jpg": "/TLM-Producao/static/media/17973908.f42ecb4bc8e4c4ed24be.jpg",
+    "static/media/logonova.png": "/TLM-Producao/static/media/logonova.7980e6181e10424713c3.png",
     "index.html": "/TLM-Producao/index.html",
-    "main.05bc4277.css.map": "/TLM-Producao/static/css/main.05bc4277.css.map",
-    "main.538eaf36.js.map": "/TLM-Producao/static/js/main.538eaf36.js.map",
+    "main.303bdb65.css.map": "/TLM-Producao/static/css/main.303bdb65.css.map",
+    "main.a68ee568.js.map": "/TLM-Producao/static/js/main.a68ee568.js.map",
     "453.ed3810f9.chunk.js.map": "/TLM-Producao/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.05bc4277.css",
-    "static/js/main.538eaf36.js"
+    "static/css/main.303bdb65.css",
+    "static/js/main.a68ee568.js"
   ]
 }
