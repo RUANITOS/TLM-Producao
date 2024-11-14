@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/TLM-Producao/static/css/main.76302f3e.css",
-    "main.js": "/TLM-Producao/static/js/main.9ac668ef.js",
+    "main.css": "/TLM-Producao/static/css/main.0c704ed9.css",
+    "main.js": "/TLM-Producao/static/js/main.98dee403.js",
     "static/js/453.ed3810f9.chunk.js": "/TLM-Producao/static/js/453.ed3810f9.chunk.js",
     "static/media/logonova.png": "/TLM-Producao/static/media/logonova.7980e6181e10424713c3.png",
     "static/media/background.png": "/TLM-Producao/static/media/background.940d6a5d9fb01a2e0b41.png",
     "index.html": "/TLM-Producao/index.html",
-    "main.76302f3e.css.map": "/TLM-Producao/static/css/main.76302f3e.css.map",
-    "main.9ac668ef.js.map": "/TLM-Producao/static/js/main.9ac668ef.js.map",
+    "main.0c704ed9.css.map": "/TLM-Producao/static/css/main.0c704ed9.css.map",
+    "main.98dee403.js.map": "/TLM-Producao/static/js/main.98dee403.js.map",
     "453.ed3810f9.chunk.js.map": "/TLM-Producao/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.76302f3e.css",
-    "static/js/main.9ac668ef.js"
+    "static/css/main.0c704ed9.css",
+    "static/js/main.98dee403.js"
   ]
 }
